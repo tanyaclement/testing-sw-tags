@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-10T21:30:58.790Z",
+  "created_by": "tanyaclement",
+  "title": "testing speakers with tag groups",
+  "slug": "testing-speakers-with-tag-groups",
+  "updated_at": "2025-03-10T21:30:58.790Z",
+  "updated_by": "tanyaclement",
+  "parent": "dab988fd-2a23-4bb3-a2aa-4fb1c5ec0cf1",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "7a7355d8-0f90-4098-ba2f-557b144053e8"
+  }
+}
