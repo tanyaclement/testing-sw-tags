@@ -1343,6 +1343,392 @@
         }
       ],
       "uuid": "0c99ca00-e461-4092-ab24-fbe45cf2f7c9"
+    },
+    {
+      "start_time": 15,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic—with both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4",
+          "category": "Ambiance and tech"
+        }
+      ],
+      "uuid": "51fea725-0622-400f-ae6a-70a8992d1472"
+    },
+    {
+      "start_time": 16,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Installment of Enough Said, performative word event series. Um, don't be put off by all the musical acrobatics, we're definitely going to be concentrating on words as always. Um, we're going to start off as always also with a couple open mic participants. I see Brian's up first. Um, well, let me just wish everybody a Merry Christmas in case I forget a little later on, um, remind everyone that the series will run for the foreseeable future in the new year, um, starting back on the 9th, the second Monday in January. Come on out, see the likes of bill bissett, Ian Stephens, number of other word (?). And. Brian, I think if uh, you're in the house and ready to go, I think it's (?) there he is, jumping up in his seat. (?) going to come up and start the evening off for us, so please, make yourselves comfortable, and enjoy the evening. [Brief pause.] Suppose I should mention that the featured performer tonight is Anne Diamond and the second feature performer (?). If anyone is particularly enamored by those individuals, please hang out, they'll be up here before long. | Video Description: Grey collared shirt with sleeves rolled to elbows atop a white collared shirt, black taqiyah-style hat with a small folded visor, and shoulder length brown hair. Closeup zooms out to long shot as Gotham speaks into the mic, then zooms into medium shot as Gotham adjusts stage equipment for Brian and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "06072828-dc8e-4bf2-8ac6-97f379559d81"
+    },
+    {
+      "start_time": 116,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks audience if they can hear him. Says he will read \"quiet poems\" tonight. Introduces and performs piece titled \"Andrea's Christmas\" by Toronto author Henry [Nimuth?]. Applause.] | Video Description: Light blue sweater atop a medium blue collared shirt, dark hair, dark inch-long beard, and wire-rimmed glasses. Medium long shot as Brian bends down to pick up large black folder. Zooms into medium closeup as Brian speaks into the mic, and zooms out to medium shot as Brian performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Brian"
+        }
+      ],
+      "uuid": "d17dacf3-0676-45cc-a4b9-f63907f89508"
+    },
+    {
+      "start_time": 287,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"For E. P.\", written for Ezra Pound. Explains Pound's \"ABCs of Poetry\" (note: Brian misspoke, and book's name is \"ABCs of Reading\"). Applause. Says something indiscernible into the mic.] | Video Description: Medium shot as Brian picks up red folder from floor, speaks into the mic, performs a piece, and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Brian"
+        }
+      ],
+      "uuid": "f58b83d0-072d-45c2-b115-cfdbf8692a1e"
+    },
+    {
+      "start_time": 499,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Brian. Invites Beau Williamson to the stage.] | Video Description: Medium shot zooms into medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "ffcf91a8-e5fc-4107-8107-d75b0ecd5870"
+    },
+    {
+      "start_time": 514,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the piece, though indiscernible due to low speaking level and high background noise in the audience and on the tape. Performs piece beginning with the line \"I had a beautiful hour of naked day that I wish to describe.\"] | Video Description: White \"Rocky Horror Picture Show\" graphic t-shirt with red lettering and black trim, long light brown hair, and large glasses. Medium closeup as Williamson speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "af0635a1-c213-4fb9-bb96-523775834c1a"
+    },
+    {
+      "start_time": 565,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Pictures of the Same Person.\"] | Video Description: Medium closeup zooms into medium closeup and zooms out again as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "686409f0-00ad-4872-941b-96e555d46d8b"
+    },
+    {
+      "start_time": 592,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs piece beginning with the line \"Tired hands greet the limp phallus of joy.\"] | Video Description: Medium closeup as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "5a8585a4-804f-4fb4-a021-7c3e829e8ed0"
+    },
+    {
+      "start_time": 603,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that Yule is coming and decided to write and perform a poem about the month of May anyways. Introduces and performs poem titled \"May.\" Applause.] | Video Description: Medium shot as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "23e4b97e-1250-4826-8b77-7c24e9cc8bee"
+    },
+    {
+      "start_time": 737,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that there will be one more open mic performer before the first feature. Invites Jen Frankel to the stage. Applause.] | Video Description: Medium closeup as Gotham speaks into the mic and lowers it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "e48f4c5f-05b2-4a53-a1e1-29f628663746"
+    },
+    {
+      "start_time": 761,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says they have no sense of time and brought a clock. Seems to discuss with Gotham (off-screen) how long they can perform. Introduces and performs a piece titled \"Ode to Beauty.\" Applause.] | Video Description: Loose black button-down shirt and short medium brown hair pulled back with a thick black bandana. Tilts down to a medium shot as Frankel speaks into the mic. Loose closeup as Frankel seems to talk to Gotham off-screen. Camera angles alternate between medium shots and medium closeups as Frankel speaks into the mic again and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Jen Frankel"
+        }
+      ],
+      "uuid": "149d10d0-4055-4d54-a68d-260ccf90f378"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs two chapters titled \"A Clockwork Cat\" and \"Cathedrals and Crashing in Seas Without Shores\" from a longer prose piece titled \"Susan by Greyhound.\"] | Video Description: Medium closeup as Frankel speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Jen Frankel"
+        }
+      ],
+      "uuid": "a8940e68-03a2-49c6-b71c-67fcc1af63b4"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that the 1995 season will be more structured with time limits for open mic performers. Announces a break.] | Video Description: Medium closeup zooms out to medium shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "a4ea6256-7ca2-4b91-9917-4d669f6266a3"
+    },
+    {
+      "start_time": 1479,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Unknown_Musician1 quietly and sporadically playing snare drum and cymbal with brushes and Unknown_Musician2 fingerpicking jazz chords on guitar. Audience chatter in the background.] | Video Description Unknown_Musician1 wears a blue and white argyle sweater with sleeves rolled up to elbows, a silver watch, glasses, and short curly dark brown hair. Unknown_Musician2 wears a red button-down shirt with sleeves rolled up to elbows, large metal-rimmed glasses, and thinning dark brown hair. Long shot as Unknown_Musician1 plays small drum kit with brushes and Unknown_Musician2 finger picks an electric guitar. Zooms into extreme closeup of Unknown_Musician2 looking around, chewing gum, and talking to individuals off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Unknown_Musician1"
+        },
+        {
+          "category": "Performer",
+          "tag": "Unknown_Musician2"
+        }
+      ],
+      "uuid": "0f6a27c6-6757-4f20-8d25-4bf34ebf3dd7"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Extreme closeup of lone mic on stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bistro 4",
+          "category": "Ambiance and tech"
+        }
+      ],
+      "uuid": "04b97dbb-f307-4ec9-8595-34e3e259f78f"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Exclaims that the open mic sign-up board is full. Introduces himself as the first feature performer. Says Unknown_Musician1 and Unknown_Musician2 are performing with himself for the first time. Introduces a piece as definitely not poetry. Audience collectively exclaims \"aw.\"] | Video Description: Out-of-focus extreme closeup focuses and zooms out to closeup as Gotham speaks into the mic. Zooms out to long shot of Gotham speaking into mic, and Unknown_Musician1 and Unknown_Musician2 behind their instruments not playing. Zooms into closeup as Gotham speaks into the mic, turns towards 1 and 2 and says something inaudible, and continues speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "367ae010-4d1f-4d9d-bc53-03715a6218c9"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing a piece either titled or beginning with the line \"Attention project proposals, explorations grants competition, Canada Arts Council.\"] | Video Description: Closeup as Gotham begins performing a piece. Zooms into extreme closeup as Gotham says the line \"one idea is a death of experience.\" Looks over to Unknown_Musician1 and Unknown_Musician2."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "a301e812-11b5-4f32-a338-b26af755e8e2"
+    },
+    {
+      "start_time": 1661,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Strike a discordant cord.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performer",
+          "tag": "Unknown_Musician1"
+        },
+        {
+          "category": "Performer",
+          "tag": "Unknown_Musician2"
+        }
+      ],
+      "uuid": "19b5e4de-e2d7-49d7-af16-5933ddf4a984"
     }
   ],
   "set": "Default",
