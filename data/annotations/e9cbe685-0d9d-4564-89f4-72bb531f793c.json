@@ -1729,6 +1729,90 @@
         }
       ],
       "uuid": "19b5e4de-e2d7-49d7-af16-5933ddf4a984"
+    },
+    {
+      "start_time": 230,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Video begins playing before audio. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Zoom tech",
+          "tag": "Lag"
+        }
+      ],
+      "uuid": "ed10f844-f049-4495-88dd-5486d52fd3f8"
+    },
+    {
+      "start_time": 520,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black text appears over the video that reads \"Video loading\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Zoom tech",
+          "tag": "Buffer"
+        }
+      ],
+      "uuid": "8d23e9e1-ea68-4677-9b27-9872be58218c"
+    },
+    {
+      "start_time": 570,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Audio lags behind video by roughly three seconds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Zoom tech",
+          "tag": "Lag"
+        }
+      ],
+      "uuid": "57d28a5d-7b66-4cde-b72d-b7ca935c9eb4"
+    },
+    {
+      "start_time": 610,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black text appears over the video that reads \"Video loading\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Zoom tech",
+          "tag": "Buffer"
+        }
+      ],
+      "uuid": "a801c6fb-b53d-4661-bb5f-5ac766ef6b3d"
     }
   ],
   "set": "Default",
